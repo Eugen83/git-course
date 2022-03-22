@@ -1,2 +1,3 @@
 The initial note, first change!
+line from user2  for user2
 One more change
